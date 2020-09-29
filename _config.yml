@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Usman-Resume.pdf
 
-url: https://usmansiddiqui.com
+url: https://usmansiddiqui.ca
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
